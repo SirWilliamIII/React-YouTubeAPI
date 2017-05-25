@@ -1,0 +1,17 @@
+.video-item img {
+    max-width: 64px;
+}
+
+.video-detail, .details {
+    margin: 40px;
+    border: 1px solid deepskyblue;
+    border-radius: 5px;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.list-group-item hover {
+    background-color: deepskyblue;
+}
